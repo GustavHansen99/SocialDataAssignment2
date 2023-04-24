@@ -14,7 +14,7 @@ Considering this recent crime, we deem it interesting to analyse the data set an
 To highlight this, we firstly draw attention towards the distribution of when in a 24-hour cycle the assaults most frequently take place in SF below in Figure 1.
 
 <figure>
-    <img src='/assets/images/assault_polar.jpg' width=500 height=500>
+    <img src='/SocialDataAssignment2/assets/images/assault_polar.jpg' width=500 height=500>
     <figcaption>Figure 1: Visualisation of the 24-hour cycle of assault crimes in San Francisco using a polar chart.</figcaption>
 </figure>
 
@@ -23,7 +23,7 @@ From this figure it becomes apparent that most assault crimes happen during the 
 In this next section, we hope to illuminate a more complete description of the assault crimes in SF. We want to not only detail the timestamp of assault crimes, but more importantly also to be able to answer the question: Where is it the safest to stay in SF to avoid assault crimes? In Figure 2, we present a map of San Francisco in order to show the exact position of each assault crime taking place in the month of February between 2003-2017. In this way, we showcase the tendency of assaults in February as the 2023 incident also took place during this month. Even though the figure only shows a sample of the data, we can confirm that the sample is representative for the true distribution of every month. The general dependency between assault crimes and location stands, and can be used as a legitimate representation of where to avoid assault crimes in February, but also across the whole year.
 
 <figure>
-    <img src='/assets/images/assault_map_heat.png' width=500 height=400 class="center">
+    <img src='/SocialDataAssignment2/assets/images/assault_map_heat.png' width=500 height=400 class="center">
     <figcaption>Figure 2: Heatmap showing the frequency of assault crimes in February between 2003 and 2017. We also highlight the location of the 2023 incident. </figcaption>
 </figure>
 
